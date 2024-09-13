@@ -1,0 +1,17 @@
+.container{
+    width: 100vw;
+    /* height: 30vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.converter{
+    padding:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    border:1px solid blue;
+    border-radius: 8px;
+}
